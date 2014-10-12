@@ -1,4 +1,4 @@
 DataScienceToolbox
 ==================
 
-The data scientists toolbox
+The data scientists toolbox coursera class
